@@ -5722,6 +5722,16 @@ html [class*='section-'].section-bottom-0 {
 	z-index: 1;
 }
 
+
+.bg-Us2{
+	background-image: url("../images/Nosotros.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	/* Fix of Webkit flickering */
+	z-index: 1;
+}
+
+
 .bg-Quest{
 	background-image: url("../images/Preguntas_.jpg");
 	background-repeat: no-repeat;
